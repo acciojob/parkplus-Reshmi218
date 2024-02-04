@@ -1,6 +1,6 @@
 package com.driver.controllers;
 
-import com.driver.entity.Reservation;
+//import com.driver.entity.Reservation;
 import com.driver.model.Reservation;
 import com.driver.services.impl.ReservationServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;

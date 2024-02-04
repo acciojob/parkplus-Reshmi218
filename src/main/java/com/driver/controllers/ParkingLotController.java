@@ -1,7 +1,7 @@
 package com.driver.controllers;
 
-import com.driver.entity.ParkingLot;
-import com.driver.entity.Spot;
+//import com.driver.entity.ParkingLot;
+//import com.driver.entity.Spot;
 import com.driver.services.ParkingLotService;
 import com.driver.model.ParkingLot;
 import com.driver.model.Spot;
